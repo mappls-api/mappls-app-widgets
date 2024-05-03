@@ -21,7 +21,7 @@ Access Tokens can be generated using Token Generation API.
 To know more on how to create your access tokens, please use our authorization API URL. More details available [here](https://developer.mappls.com/mapping/tokenGeneration).<br>
 The access token is valid by default for 24 hours from the time of generation. This can be configured by you in the API console.
 
-<img src="" height="400"/></p>
+![](/assets/realview-widget.png)
 
 
 ### Embed Mappls Realview on your app by following the below steps.
@@ -104,7 +104,7 @@ To learn more on how to create your authorization tokens, please use our authori
 ```
 
 #### Sample Output
-<img src="" height="400"/> </p>
+![](/assets/realview-widget.gif)
 
 
 

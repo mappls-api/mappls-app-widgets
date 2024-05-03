@@ -5,7 +5,7 @@
 The Mappls EarthView Widget .
 
 
-
+![](/assets/EarthView-Widget.gif)
 
 ### Embed Mappls Earthview on your app by following the below steps.
 
@@ -57,7 +57,7 @@ To learn more on how to create your authorization tokens, please use our authori
 </html>
 ```
 #### Sample Output
-
+![](/assets/EarthView-Widget.gif)
 
 
 <br>

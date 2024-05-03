@@ -1,5 +1,5 @@
 [<img src="https://about.mappls.com/about/images/MAPPLS-MapmyIndia-logo.png" height="40"/> </p>](https://about.mappls.com/api/)
-## Mappls Places Widget
+## Mappls Nearby Widget
 
 ### Introduction
 A simple widget to search for nearby places powered by the best online maps from Mappls. The Nearby Search Widget provided as a means to enable radial searching for Nearby Places on Mappls Maps.
@@ -11,7 +11,7 @@ This widget enables you to add discovery and search for the nearby places using 
 2. Supports the additional hyperlocal place categories as per the need of real world changes e.g. hyperlocal information on COVID like Covid centres, vaccination centres, etc.
 3. The form factor of this widget helps any website or app developer to easily integrate this information, as a widget, for the benefit of their users and visitors.
 
-<img src="" height="400"/> </p>
+![](/assets/nearby-widget.png)
 
 
 ### Embed Mappls Nearby widget on your app by following the below steps.
@@ -59,7 +59,7 @@ To learn more on how to create your authorization tokens, please use our authori
 </html>
 ```
 #### Sample Output
-<img src="" height="400"/> </p>
+![](/assets/nearby-widget.png)
 
 
 <br>
