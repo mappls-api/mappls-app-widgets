@@ -2,7 +2,7 @@
 ## Mappls EarthView Widget
 
 ### Introduction
-The Mappls EarthView Widget .
+Navigate the Earth with precision. Our Earth Widget combines the power of  MapmyIndia's vector maps with breathtaking global views, high resolution 3D drone models, and the interactive almanac timeline. Travel virtually, uncover trends, and experience the planet like never before in a dynamic 4D `Realverse`
 
 
 ![](/assets/EarthView-Widget.gif)
