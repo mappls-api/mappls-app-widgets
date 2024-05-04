@@ -28,7 +28,10 @@ The access token is valid by default for 24 hours from the time of generation. T
 
 To use the Mappls Realview Widget, you need to specify the following URL format:
 ```html
-<iframe src="https://embed.mappls.com/place/<MAPPLS_PIN>?token=<TOKEN>&fullscreen=true&position=top-left&zoom=16&pitch=45" style="width: 100%; height: 80vh;" allowfullscreen="">
+<iframe
+        src="https://realview.mappls.com/realview_widget/jq5qn8?access_token=<Token>&minDistance=1&maxDistance=500&arrow=true&map=true&zoomControls=true&controls=true&mapWidth=200&mapHeight=200"
+        style="width: 100%; height: 80vh;" title="embed Example" allowfullscreen="">
+    </iframe>
 ```
 
 ### Configurable Parameters
