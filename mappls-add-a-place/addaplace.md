@@ -8,7 +8,7 @@
 The Mappls Add a Place feature allows users to contribute new locations that are not yet listed on the Mappls platform. This enhances the coverage and accuracy of Mappls, ensuring that new places are integrated into the map and easily accessible. Once added, these locations are reflected on the Mappls map, making them available for navigation and discovery by the community.
 
 
-![Screenshot](/addaplace/addaplaceimage/1.PNG)
+![Screenshot](https://github.com/mappls-api/mappls-app-widgets/blob/main/mappls-add-a-place/addaplaceimage/1.PNG)
 
 
 
@@ -59,7 +59,7 @@ You can customize the widget with the following parameters:
 
 ## *Sample Output*
 
-![Screenshot](/addaplace/addaplaceimage/4.PNG)
+![Screenshot](https://github.com/mappls-api/mappls-app-widgets/blob/main/mappls-add-a-place/addaplaceimage/4.PNG)
 
 ## Category Table
 
