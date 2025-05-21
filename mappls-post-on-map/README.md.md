@@ -45,7 +45,7 @@ Embed the **Post On Map Widget** on your website using the following HTML code:
 </html>
 ```
 
-![postonmap](/postonmap/postonmapdoc/1.PNG) 
+![postonmap](https://github.com/mappls-api/mappls-app-widgets/blob/main/mappls-post-on-map/postonmapdoc/1.PNG) 
 
 
 ## How to Submit a Post
@@ -54,7 +54,7 @@ Embed the **Post On Map Widget** on your website using the following HTML code:
    - Drag the map to the area you want to post about, or use the search bar to find a specific location.
    - Fine-tune the pinpointed position by adjusting the map.
 
-   ![Map with Search Bar](/postonmap/postonmapdoc/2.PNG)
+   ![Map with Search Bar](https://github.com/mappls-api/mappls-app-widgets/blob/main/mappls-post-on-map/postonmapdoc/2.PNG)
 
 **Step 2.** **Select a Primary Category**
    - Choose the category that best fits your post:
@@ -63,12 +63,12 @@ Embed the **Post On Map Widget** on your website using the following HTML code:
      - **Road Condition:** Information about road quality, closures, or maintenance.
      - **Map (Routing):** Suggestions for better navigation or route adjustments.
 
-   ![Category Selection Menu](/postonmap/postonmapdoc/2.PNG)
+   ![Category Selection Menu](https://github.com/mappls-api/mappls-app-widgets/blob/main/mappls-post-on-map/postonmapdoc/2.PNG)
 
 **Step 3.** **Select a Sub-Category**
    - Choose a relevant sub-category to provide more specific details for your post.
 
-   ![Sub-category Selection](/postonmap/postonmapdoc/3.PNG)
+   ![Sub-category Selection](https://github.com/mappls-api/mappls-app-widgets/blob/main/mappls-post-on-map/postonmapdoc/3.PNG)
 
 **Step 4.** **Enter Post Details**
    - Provide a description of the issue or update.
@@ -77,12 +77,12 @@ Embed the **Post On Map Widget** on your website using the following HTML code:
      - If logged in, the post will be published immediately.
      - If not logged in, you'll be prompted to log in or post anonymously.
 
-   ![Post Details Form](/postonmap/postonmapdoc/4.PNG)
+   ![Post Details Form](https://github.com/mappls-api/mappls-app-widgets/blob/main/mappls-post-on-map/postonmapdoc/4.PNG)
 
 **Step 5.** **Review and Submit**
    - After reviewing your information, click 'Post' to submit the post. 
    - Once submitted, your post will be visible to others in the area.
-   ![Post Details Form](/postonmap/postonmapdoc/5.PNG)
+   ![Post Details Form](https://github.com/mappls-api/mappls-app-widgets/blob/main/mappls-post-on-map/postonmapdoc/5.PNG)
 
 <!-- ## Access Required
 
