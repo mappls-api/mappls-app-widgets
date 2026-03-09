@@ -105,7 +105,7 @@ To learn more on how to create your authorization tokens, please use our authori
 
 </html>
 ```
-#### Get a callback in javascript from the parent window when the widget posts that no trip is available.
+#### Get a callback in the parent window when the widget posts that no trip is available.
 ```
 window.addEventListener('message', function(e) {
     if(e.origin.indexOf("mappls.com")!==-1 && e.data.status==204)
@@ -150,3 +150,4 @@ Need support? contact us!
 
 
 <div align="center">Customer Care: +91-9999333223</div>
+
