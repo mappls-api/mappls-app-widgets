@@ -105,6 +105,15 @@ To learn more on how to create your authorization tokens, please use our authori
 
 </html>
 ```
+#### Get a callback in javascript from the parent window when the widget posts that no trip is available.
+```
+window.addEventListener('message', function(e) {
+    if(e.origin.indexOf("mappls.com")!==-1 && e.data.status==204)
+    {
+         console.log("No trip image available"); 
+    }  
+});
+```
 
 #### Sample Output
 ![](/assets/realview-widget.gif)
